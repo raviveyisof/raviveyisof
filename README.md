@@ -1,11 +1,11 @@
 <p align="center">
-  <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Xoş Gəldiniz+GitHub+Profilimə!;I'm+a+competitive+programmer;I'm+a+Python+developer" /></a>
+  <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Xoş Geldiniz+GitHub+Profilime!;I'm+a+competitive+programmer;I'm+a+Python+developer" /></a>
 </p>
-<p>Xoş Gəldiniz, Python'da projelər Yaradıram.</p>
+<p>Xoş Gəldiniz, Python'da Projelər Yaradıram.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋Salam, Mən @Veyisoff</li>
-  <li>❤️Python'da botlar düzəldilir.</li>
+  <li>👋Salam, Mən Ravi Veyisov</li>
+  <li>❤️Python'da botlar düzəldirəm.</li>
 </ul>
 
 #### A little more about me
@@ -14,7 +14,7 @@ class Ravi():
     
   def __init__(self):
     self.name = "Ravi";
-    self.username = "Veyisoff";
+    self.username = "Veyisov";
     self.location = "Azərbaycan";
 
     
